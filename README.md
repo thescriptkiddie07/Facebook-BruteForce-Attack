@@ -27,6 +27,9 @@ https://youtu.be/qIfGxDmRQIU
 >> python3 -m pip install mechanize
 >> python3 fb.py or python fb2.py
 ```
+## Screenshots
+![CAPTURE 1](https://github.com/thescriptkiddie07/Facebook-BruteForce-Attack/blob/main/Screenshot/Intro%20Page.jpg)
+![CAPTURE 1](https://github.com/thescriptkiddie07/Facebook-BruteForce-Attack/blob/main/Screenshot/Attack%20.jpg)
 
 ## Protection Against Attacker
 * Use Strong Password(which contains standard password chars + longest as possible)
