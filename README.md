@@ -12,6 +12,7 @@ https://youtu.be/qIfGxDmRQIU
 
 ## Run commands one by one
 ```
+>> git clone 
 >> cd Facebook-BruteForce
 >> python3 -m pip install requests bs4
 >> python3 -m pip install mechanize
