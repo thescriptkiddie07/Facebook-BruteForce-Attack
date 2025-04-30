@@ -11,8 +11,6 @@ You have written consent from the system owner.
 You're participating in a legal CTF (Capture The Flag) or penetration testing environment like Hack The Box or TryHackMe.
 Misuse of this knowledge can lead to criminal charges, loss of academic standing, bans from tech platforms, and legal action.
 ```
-## Find here a video on YouTube
-https://youtu.be/qIfGxDmRQIU
 
 ## Install Requirements (on Linux)
 ```
